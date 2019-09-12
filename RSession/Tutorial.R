@@ -1,6 +1,6 @@
 ## Task: Tutorial on ghypernets package for gHypEG regressions on mulit-edge networks
 ## Authors: Laurence Brandenberger and Giona Casiraghi, Chair of Systems Design, ETH Zurich
-## Date: September 2, 2019
+## Date: September 12, 2019
 
 ################################################################################
 ################################################################################
